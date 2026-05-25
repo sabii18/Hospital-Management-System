@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225230234
+# Name: SABEESHWARAN
+# Date: 25.05.2026
 
 
 # AIM:
@@ -41,6 +41,7 @@ Specifying the context and requirements of a system
 → Modeling the basic flow of events in a sina use case.
 
 
+<img width="1218" height="840" alt="image" src="https://github.com/user-attachments/assets/0ce73a0f-8bdc-439c-a126-a6e8d730205d" />
 
 
 
@@ -60,6 +61,7 @@ Visually express any specific needs of a system and disseminate that information
 
 Create detailed charts that…
 
+<img width="1197" height="839" alt="image" src="https://github.com/user-attachments/assets/d00d5a13-14f0-4c4e-ae31-a03a51d7f4fb" />
 
 
 # COMMUNICTION DIAGRAM:
@@ -69,6 +71,7 @@ A communication diagram offers the same information as a sequence diagram, but w
 Communication diagrams offer benefits similar to sequence diagrams, but they will offer a better understanding of how components communicate and interact with each other rather than solely emphasizing the sequence of events. They can be a useful reference for businesses, organizations, and engineers who need to visualize and understand the physical communications within a program. Try drawing a sequence diagram to:
 
 
+<img width="1064" height="800" alt="image" src="https://github.com/user-attachments/assets/77747a2f-cd6a-4052-8e22-182181d700ca" />
 
 
 # PACKAGE DIAGRAM:
@@ -82,6 +85,7 @@ A well-designed package diagram provides numerous benefits to those looking to c
 
 
 
+<img width="886" height="703" alt="image" src="https://github.com/user-attachments/assets/92736d9b-cafb-4036-b207-ba3282362610" />
 
 
 
@@ -99,6 +103,7 @@ Demonstrate the logic of an algorithm.
 Describe the steps performed in a UML use case.
 
 
+<img width="894" height="857" alt="image" src="https://github.com/user-attachments/assets/a1332291-9b2b-45f2-beca-408d5f9c457f" />
 
 
 
@@ -121,6 +126,7 @@ Plan and understand the detailed functionality of an existing or future scenario
 
 
 
+<img width="1372" height="848" alt="image" src="https://github.com/user-attachments/assets/698344af-aacd-4028-889c-0e01735bb5b5" />
 
 
 
